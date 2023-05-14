@@ -1,0 +1,484 @@
+.iPhoneX11ProLightBase.iPhoneX11ProLightBase {
+  top: -1px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 812px;
+  align-items: flex-start;
+  background-color: #fcfcff;
+  overflow: hidden;
+}
+.rectangle42 {
+  position: absolute;
+  left: 19px;
+  top: 538px;
+  width: 335px;
+  height: 114px;
+  border-radius: 24px;
+  background-color: #d9d9d91a;
+}
+.rectangle41 {
+  position: absolute;
+  left: 23px;
+  top: 406px;
+  width: 335px;
+  height: 114px;
+  border-radius: 24px;
+  background-color: #d9d9d91a;
+}
+.group136 {
+  position: absolute;
+  left: 13px;
+  top: 140px;
+  width: 350.3667px;
+  height: 189px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+._4560 {
+  color: #fff;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 42px;
+  top: 205px;
+  width: 189px;
+  height: 80px;
+  flex-direction: column;
+}
+.helloJohn {
+  position: absolute;
+  left: 18px;
+  top: 86px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 28px;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #2f2f2f;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #2f2f2f;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  background-image: linear-gradient(83.1deg, #ffa450ff 0%, #ff5c00ff 60%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.tue16May2023 {
+  color: #2f2f2f;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 59px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.yourTotalPoints {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 183px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame59 {
+  position: absolute;
+  left: 0;
+  top: 747px;
+  width: 375px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 21px 55px;
+  background-color: #fff;
+  box-shadow: 1px 1px 14px 6px #c8c8c826;
+}
+.frame58 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 96px;
+}
+.home {
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.activity {
+  width: 24px;
+  height: 24px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.settings {
+  width: 24px;
+  height: 24px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.iPhoneX11ProLightBase2 {
+  color: #666;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 26px;
+  top: -12px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame54 {
+  position: absolute;
+  left: 42.5px;
+  top: 362px;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 145px;
+}
+.yourGoals {
+  color: #2f2f2f;
+  font-size: 21px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.seeAll {
+  background-image: linear-gradient(78.7deg, #ffa450ff 0%, #ff5c00ff 60%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cycleToWork {
+  color: #2f2f2f;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44.125px;
+  top: 418px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.connectedStrava {
+  color: #2f2f2f;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 43px;
+  top: 453px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.everyday {
+  color: #ff5c00;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45px;
+  top: 482px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 87.2333%;
+  right: 12.3667%;
+  top: 52.4938%;
+  bottom: 47.3214%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 87.2333%;
+  right: 12.3667%;
+  top: 51.8473%;
+  bottom: 47.968%;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.vector3 {
+  position: absolute;
+  left: 87.2333%;
+  right: 12.3667%;
+  top: 53.1404%;
+  bottom: 46.6749%;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.frame4 {
+  position: absolute;
+  left: 29px;
+  top: 535px;
+  width: 322px;
+  height: 116px;
+  place-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 11px;
+  border-radius: 9px;
+  background-color: #fbfbfb;
+}
+.frame102 {
+  position: absolute;
+  left: 14px;
+  top: 25px;
+  width: min-content;
+  height: min-content;
+}
+.frame101 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+}
+.frame3 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+}
+.goingPaperless {
+  color: #2f2f2f;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.connectedPaperCutMF {
+  color: #2f2f2f;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.everyday2 {
+  color: #ff5c00;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Nunito, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.moreVertical {
+  position: absolute;
+  left: 292px;
+  top: 13px;
+  width: 18px;
+  height: 18px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse8 {
+  position: absolute;
+  left: 190px;
+  top: 15px;
+  width: 74px;
+  height: 75px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.IconCheck {
+  position: absolute;
+  left: 209px;
+  top: 38px;
+  width: 35.8504px;
+  height: 29px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.frame15 {
+  position: absolute;
+  left: 28px;
+  top: 666px;
+  width: 322px;
+  height: 81px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  padding: 11px;
+  border-radius: 9px;
+  background-color: #fbfbfb;
+}
+.fluentAddCircle24Filled {
+  width: 62px;
+  height: 62px;
+  filter: drop-shadow(0px 4px 4px #37c87140);
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse7 {
+  position: absolute;
+  left: 219px;
+  top: 430px;
+  width: 74px;
+  height: 75px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.IconCheck2 {
+  position: absolute;
+  left: 238px;
+  top: 453px;
+  width: 35.8504px;
+  height: 29px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.image1 {
+  position: absolute;
+  left: 288px;
+  top: 59px;
+  width: 57px;
+  height: 22.9701px;
+  background-image:/* webpackIgnore: true */ url('assets/image1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ellipse9 {
+  position: absolute;
+  left: 233px;
+  top: 188px;
+  width: 98px;
+  height: 98px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.EmojiSmilingFaceWithHeartShape {
+  position: absolute;
+  left: 252px;
+  top: 207px;
+  width: 61px;
+  height: 60.9735px;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
